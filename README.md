@@ -19,8 +19,8 @@
 
 #
 ##### Связь со мной:
-- [<img align="center" alt="telegram" width="20" src="https://telegram.org/img/t_logo.svg?1" />][telega] <a href="https://t.me/hard_magic">Telegram: hard_magic</a>
-- <a href="mailto:westerovs@mail.ru">e-mail: westerovs@mail.ru</a>
+- [<img align="center" alt="telegram" width="20" src="https://telegram.org/img/t_logo.svg?1" />][telega] Telegram: <a href="https://t.me/hard_magic">hard_magic</a>
+- e-mail: <a href="mailto:westerovs@mail.ru">westerovs@mail.ru</a>
 
 
 [youtube]: https://www.youtube.com/c/WEBSTART-LIVE
