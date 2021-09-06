@@ -1,6 +1,6 @@
 ## Hello, I`m [Alexander !][telega]
 
-<img align="left" alt="JavaScript" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> Frontend developer
+<img align="left" alt="JavaScript" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />Frontend developer
 
 ##### [<img align="baseline" alt="hh" width="20" src="https://i.hh.ru/logos/svg/hh.ru__min_.svg?v=11032019" />][hh] Resume 
 Обожаю чистый JavaScript, да и прогарммирование в целом. Люблю делать на нём анимации и креативные приложения.
