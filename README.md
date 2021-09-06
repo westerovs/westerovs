@@ -22,7 +22,7 @@
 ####  Пассивно изучаю алгоритмы, паттерны, ооп, делаю мини-игры, веду небольшой канал по программированию на youtube. 
 
 ##### Связь со мной:
-[<img align="baseline" alt="hh" width="20" src="./img/telegram.png" />][telega]
+<img align="left" alt="telega" width="20" src="telegram.svg" />
 - telegram: https://t.me/hard_magic
 - email: westerovs@mail.ru
 
