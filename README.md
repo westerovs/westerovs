@@ -2,7 +2,7 @@
 
 # <img align="left" alt="JavaScript" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> Frontend developer
 
-##### [<img align="center" alt="hh" width="20" src="https://i.hh.ru/logos/svg/hh.ru__min_.svg?v=11032019" />][hh] Resume 
+##### [<img align="baseline" alt="hh" width="20" src="https://i.hh.ru/logos/svg/hh.ru__min_.svg?v=11032019" />][hh] Resume 
 Обожаю чистый JavaScript, да и прогарммирование в целом. Люблю делать на нём анимации и креативные приложения.
 <br> Интересна сфера gameDev.
 
@@ -19,7 +19,12 @@
 - Веду небольшой канал по программированию на youtube.
 [<img align="left" alt="hh" width="56" src="https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg" />][youtube]
 
-#####  Пассивно изучаю алгоритмы, паттерны, ооп, делаю мини-игры, веду небольшой канал по программированию на youtube. 
+####  Пассивно изучаю алгоритмы, паттерны, ооп, делаю мини-игры, веду небольшой канал по программированию на youtube. 
+
+##### Связь со мной:
+[<img align="baseline" alt="hh" width="20" src="./img/telegram.png" />][telega]
+- telegram: https://t.me/hard_magic
+- email: westerovs@mail.ru
 
 
 [youtube]: https://www.youtube.com/c/WEBSTART-LIVE
