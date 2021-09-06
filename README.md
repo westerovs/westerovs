@@ -5,9 +5,10 @@
 ##### [<img align="baseline" alt="hh" width="20" src="https://i.hh.ru/logos/svg/hh.ru__min_.svg?v=11032019" />][hh] Resume 
 Обожаю чистый JavaScript, да и прогарммирование в целом. Люблю делать на нём анимации и креативные приложения.
 <br> Интересна сфера gameDev.
-#
 
-##### Skills:
+---
+### Skills and Tools
+
 - Анимации различных видов(canvas, svg, lottie, css)
 - Вёрстка, гриды, базовая доступность интерфейсов, бэм и тп
 - Создание нестандартных компонентов, фильтров
@@ -20,12 +21,12 @@
 - Веду небольшой канал по программированию на youtube.
 [<img align="center" alt="hh" width="56" src="https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg" />][youtube]
 ####  Пассивно изучаю алгоритмы, паттерны, ооп, делаю мини-игры, веду небольшой канал по программированию на youtube. 
-#
+<br />
 
+---
 ##### Связь со мной:
 - [<img align="baseline" alt="telegram" width="20" src="https://telegram.org/img/t_logo.svg?1" />][telega] Telegram 
 - e-mail: westerovs@mail.ru   
-
 
 
 [youtube]: https://www.youtube.com/c/WEBSTART-LIVE
