@@ -17,9 +17,8 @@
 - Прохожу курс по архитектуре приложений.
 - Отлично знаю технический английский.
 - Имеется статус самозанятого для налоговой
-- Веду небольшой канал по программированию на youtube.
-[<img align="center" alt="hh" width="56" src="https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg" />][youtube]
-####  Пассивно изучаю алгоритмы, паттерны, ооп, делаю мини-игры, веду небольшой канал по программированию на youtube. 
+
+####  Пассивно изучаю алгоритмы, паттерны, ооп, делаю мини-игры, веду небольшой канал по программированию на [<img align="center" alt="youtube" width="56" src="https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg" />][youtube] 
 
 #
 ##### Связь со мной:
