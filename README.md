@@ -1,8 +1,6 @@
-## Hello, I`m [Alexander !][telega]
+## Hello, I`m [Alexander !][telega] Frontend developer <img align="center" alt="JavaScript" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img align="left" alt="JavaScript" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />Frontend developer
-
-##### [<img align="baseline" alt="hh" width="20" src="https://i.hh.ru/logos/svg/hh.ru__min_.svg?v=11032019" />][hh] Resume 
+##### [<img align="center" alt="hh" width="20" src="https://i.hh.ru/logos/svg/hh.ru__min_.svg?v=11032019" />][hh] <a href="https://voronezh.hh.ru/resume/db80ce62ff07c1cfdd0039ed1f7a38707a716c">Resume </a>
 Обожаю чистый JavaScript, да и прогарммирование в целом. Люблю делать на нём анимации и креативные приложения.
 <br> Интересна сфера gameDev.
 
@@ -22,8 +20,8 @@
 
 #
 ##### Связь со мной:
-- [<img align="center" alt="telegram" width="20" src="https://telegram.org/img/t_logo.svg?1" />][telega] Telegram 
-- e-mail: westerovs@mail.ru   
+- [<img align="center" alt="telegram" width="20" src="https://telegram.org/img/t_logo.svg?1" />][telega] <a href="https://t.me/hard_magic">Telegram</a>
+- e-mail: <a href="mailto:westerovs@mail.ru">westerovs@mail.ru</a>
 
 
 [youtube]: https://www.youtube.com/c/WEBSTART-LIVE
