@@ -1,9 +1,10 @@
 ## Hello, I`m [Alexander !][telega]
 
-### <img align="left" alt="JavaScript" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> I`m frontend developer
+# <img align="left" alt="JavaScript" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> I`m frontend developer
 
+##### [<img align="center" alt="hh" width="20" src="https://i.hh.ru/logos/svg/hh.ru__min_.svg?v=11032019" />][hh] Resume 
 Обожаю чистый JavaScript, да и прогарммирование в целом. Люблю делать на нём анимации и креативные приложения.
-<br> [<img align="left" alt="hh" width="20" src="https://i.hh.ru/logos/svg/hh.ru__min_.svg?v=11032019" />][hh] Интересна сфера gameDev.
+<br> Интересна сфера gameDev.
 
 ##### Skills:
 - Анимации различных видов(canvas, svg, lottie, css)
@@ -16,9 +17,9 @@
 - Отлично знаю технический английский.
 - Имеется статус самозанятого для налоговой
 - Веду небольшой канал по программированию на youtube.
+[<img align="left" alt="hh" width="56" src="https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg" />][youtube]
 
-
-#####  Пассивно изучаю алгоритмы, паттерны, ооп, делаю мини-игры, веду небольшой канал по программированию на youtube. [<img align="left" alt="hh" width="56" src="https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg" />][youtube]
+#####  Пассивно изучаю алгоритмы, паттерны, ооп, делаю мини-игры, веду небольшой канал по программированию на youtube. 
 
 
 [youtube]: https://www.youtube.com/c/WEBSTART-LIVE
