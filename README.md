@@ -1,0 +1,27 @@
+## Hello, I`m [Alexander !][telega]
+
+### <img align="left" alt="JavaScript" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> I`m frontend developer
+
+Обожаю чистый JavaScript, да и прогарммирование в целом. Люблю делать на нём анимации и креативные приложения.
+<br> [<img align="left" alt="hh" width="20" src="https://i.hh.ru/logos/svg/hh.ru__min_.svg?v=11032019" />][hh] Интересна сфера gameDev.
+
+##### Skills:
+- Анимации различных видов(canvas, svg, lottie, css)
+- Вёрстка, гриды, базовая доступность интерфейсов, бэм и тп
+- Создание нестандартных компонентов, фильтров
+- Локализация приложений(i18n)
+- Наставничество junior - верстальщиков.
+- Пассивно изучаю алгоритмы, паттерны, ооп, 
+- Прохожу курс по архитектуре приложений.
+- Отлично знаю технический английский.
+- Имеется статус самозанятого для налоговой
+- Веду небольшой канал по программированию на youtube.
+
+
+#####  Пассивно изучаю алгоритмы, паттерны, ооп, делаю мини-игры, веду небольшой канал по программированию на youtube. [<img align="left" alt="hh" width="56" src="https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg" />][youtube]
+
+
+[youtube]: https://www.youtube.com/c/WEBSTART-LIVE
+[telega]: https://t.me/hard_magic
+[hh]: https://voronezh.hh.ru/resume/db80ce62ff07c1cfdd0039ed1f7a38707a716c
+
