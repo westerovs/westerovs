@@ -14,8 +14,7 @@
 - Отлично знаю технический английский.
 - Имеется статус самозанятого для налоговой
 
-####  Пассивно изучаю алгоритмы, паттерны, ооп, немного дискретную математику, делаю мини-игры, <br/> веду небольшой канал по программированию на [<img align="center" alt="youtube" width="56" src="https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg" />][youtube] 
-
+####  Пассивно изучаю алгоритмы, паттерны, ооп, немного дискретную математику, делаю мини-игры, <br/> веду небольшой канал по программированию на youtube
 #
 ##### Связь со мной:
 - [<img align="center" alt="telegram" width="20" src="https://telegram.org/img/t_logo.svg?1" />][telega] Telegram: <a href="https://t.me/hard_magic">hard_magic</a>
