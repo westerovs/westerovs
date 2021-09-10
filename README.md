@@ -1,7 +1,8 @@
 ## Hello, I`m [Alexander !][telega] Frontend developer <img align="top" alt="JavaScript" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-Обожаю чистый JavaScript, да и прогарммирование в целом. Люблю делать на нём анимации и креативные приложения.
-<br> Интересна сфера gameDev.
+Обожаю чистый JavaScript, да и прогарммирование в целом. <br/>
+Люблю делать на нём анимации и креативные приложения.
+<br> Интересна сфера gameDev. Для общего развития изучаю C++
 
 #
 ### Skills and Tools
