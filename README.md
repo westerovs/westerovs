@@ -19,9 +19,9 @@
 
 #
 ### Мои сертификаты:
-- [Professional HTML &CSS, level 2][html1]
-- [Professional JavaScript, level 2][js2]
-- [JavaScript - Architecture of Front-end Applications][js2-prof]
+- 2021 [Professional HTML &CSS, level 2][html1]
+- 2020 [Professional JavaScript, level 2][js2]
+- 2019 [JavaScript - Architecture of Front-end Applications][js2-prof]
 
 #
 ##### Связь со мной:
