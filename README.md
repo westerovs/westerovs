@@ -1,6 +1,6 @@
 ## Hello, I`m [Alexander !][telega] JavaScript developer <img align="top" alt="JavaScript" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-Обожаю чистый JavaScript, да и прогарммирование в целом. <br/>
+Обожаю чистый JavaScript, да и программирование в целом. <br/>
 Люблю делать на нём игры, анимации и креативные приложения.
 <br> Интересна сфера gameDev. Для общего развития изучаю C++
 <br> Действующий наставник по вёрстке в HtmlAcademy.
