@@ -38,6 +38,6 @@
 [html1]: https://assets.htmlacademy.ru/certificates/intensive/115/515875.pdf?1568835873&_ga=2.103924802.31217655.1632573392-1893841728.1631130741
 [js2]: https://assets.htmlacademy.ru/certificates/intensive/141/515875.pdf?1580945711&_ga=2.109326151.31217655.1632573392-1893841728.1631130741
 [js2-prof]: https://assets.htmlacademy.ru/certificates/intensive/211/515875.pdf?1632573430&_ga=2.109326151.31217655.1632573392-1893841728.1631130741
-[htmlacademy]: https://htmlacademy.ru/intensive/htmlcss/?target=_blank
+[htmlacademy]: https://htmlacademy.ru/intensive/htmlcss
 
 
