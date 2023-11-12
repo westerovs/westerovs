@@ -1,6 +1,6 @@
 ### ✨Feel the power JavaScript ✨
 
-# Hello, I`m [Alexander !][vk] JavaScript Game Developer <img align="center" alt="JavaScript" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+# Hello, I`m [Alexander !][youtube-main] JavaScript Game Developer <img align="center" alt="JavaScript" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 Обожаю чистый JavaScript, да и программирование в целом. <br/>
 Люблю делать на нём игры, анимации и креативные приложения.
@@ -33,7 +33,7 @@
 
 [youtube]: https://www.youtube.com/c/WEBSTART-LIVE
 [telega]: https://t.me/hard_magic
-[vk]: https://vk.com/hard_magic
+[youtube-main]: [https://vk.com/hard_magic](https://youtu.be/EoEdWH7hAwU)
 [mail]: westerovs@mail.ru
 [hh]: https://voronezh.hh.ru/resume/db80ce62ff07c1cfdd0039ed1f7a38707a716c
 
