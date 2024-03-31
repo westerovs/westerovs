@@ -23,8 +23,6 @@
 - 2019 [Professional HTML &CSS, level 2][html1]
 
 
-
-#https://vk.com/webstart_live
 ##### Связь со мной:
 - [<img align="center" alt="telegram" width="20" src="https://telegram.org/img/t_logo.svg?1" />][telega] Telegram: <a href="https://t.me/js_ws">t.me/js_ws</a>
 - <img align="center" alt="vk" width="20"        src="https://www.dropbox.com/team/team_logo/dbtid%3AAACHQZx4adzBZiBCpy7P4xtzn3UNxr-wcoE?v=1634126598663" /> VK-group: <a href="https://vk.com/webstart_live">vk.com/webstart_live</a>
