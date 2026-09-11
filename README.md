@@ -1,6 +1,6 @@
 ### ✨Feel the power JavaScript ✨
 
-# Hello, I`m [Alexander !][youtube-main] JavaScript Game Developer <img align="center" alt="JavaScript" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+# Hello, I`m [Alexander !][youtube-main] Game Developer <img align="center" alt="JavaScript" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 Обожаю JavaScript, да и программирование в целом. <br/>
 <br> Работаю по специальности HTML5 Game Developer.
